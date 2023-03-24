@@ -57,9 +57,18 @@ namespace UACPirate
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
             storeContentToDisk();
+
+        }
+        private void quitOnEnter(object sender, KeyPressEventArgs e)
+        {
+            if (e.KeyChar == '\n'|| e.KeyChar == '\r')
+            {
+                System.Windows.Forms.Application.Exit();
+            }
         }
 
-        private void textBox1_TextChanged_1(object sender, EventArgs e)
+
+            private void textBox1_TextChanged_1(object sender, EventArgs e)
         {
             storeContentToDisk();
         }
