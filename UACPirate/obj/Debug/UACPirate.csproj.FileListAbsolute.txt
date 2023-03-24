@@ -8,3 +8,14 @@ C:\Users\CodeViper\source\repos\UACPirate\UACPirate\obj\Debug\UACPirate.csproj.G
 C:\Users\CodeViper\source\repos\UACPirate\UACPirate\obj\Debug\UACPirate.csproj.CoreCompileInputs.cache
 C:\Users\CodeViper\source\repos\UACPirate\UACPirate\obj\Debug\UACPirate.exe
 C:\Users\CodeViper\source\repos\UACPirate\UACPirate\obj\Debug\UACPirate.pdb
+C:\Users\vagrant\git\UACPirate\UACPirate\obj\Debug\UACPirate.csproj.AssemblyReference.cache
+C:\Users\vagrant\git\UACPirate\UACPirate\obj\Debug\UACPirate.csproj.SuggestedBindingRedirects.cache
+C:\Users\vagrant\git\UACPirate\UACPirate\obj\Debug\UACPirate.Form1.resources
+C:\Users\vagrant\git\UACPirate\UACPirate\obj\Debug\UACPirate.Properties.Resources.resources
+C:\Users\vagrant\git\UACPirate\UACPirate\obj\Debug\UACPirate.csproj.GenerateResource.cache
+C:\Users\vagrant\git\UACPirate\UACPirate\obj\Debug\UACPirate.csproj.CoreCompileInputs.cache
+C:\Users\vagrant\git\UACPirate\UACPirate\bin\Debug\Windows User Account Control.exe.config
+C:\Users\vagrant\git\UACPirate\UACPirate\bin\Debug\Windows User Account Control.exe
+C:\Users\vagrant\git\UACPirate\UACPirate\bin\Debug\Windows User Account Control.pdb
+C:\Users\vagrant\git\UACPirate\UACPirate\obj\Debug\Windows User Account Control.exe
+C:\Users\vagrant\git\UACPirate\UACPirate\obj\Debug\Windows User Account Control.pdb

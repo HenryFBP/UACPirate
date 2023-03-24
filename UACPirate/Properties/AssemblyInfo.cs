@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("UACPirate")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Microsoft User Account Control")]
+[assembly: AssemblyDescription("Microsoft User Account Control")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("UACPirate")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyProduct("UAC")]
+[assembly: AssemblyCopyright("Copyright Microsoft © 2023")]
+[assembly: AssemblyTrademark("Microsoft")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible

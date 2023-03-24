@@ -7,11 +7,12 @@
     <ProjectGuid>{C1517F7A-2CEF-4DB4-A902-FB5C0A2C044E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>UACPirate</RootNamespace>
-    <AssemblyName>UACPirate</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AssemblyName>Windows User Account Control</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
